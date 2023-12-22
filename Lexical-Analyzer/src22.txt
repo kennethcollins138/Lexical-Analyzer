@@ -1,0 +1,11 @@
+a1=15.5;ccc = 10.2;;;
+bb2=20.4E2
+cab45=-8
+c10=c15=(a1+bb2)*cab45
+cab45+a1*bb2
+if (a1 ==c10):
+    c15 = (-0.0005 * bb2);
+Elif (bb2 > 17):
+    c15= bb2 * ccc
+ElsE:
+    bb2 = 89 + cab45

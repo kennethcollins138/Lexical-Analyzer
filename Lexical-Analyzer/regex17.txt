@@ -1,0 +1,3 @@
+"abc"
+IDENTIFIER "a(b|c)*"
+KEYWORD "abc"
